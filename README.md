@@ -133,7 +133,7 @@ These parameters are tunable in `rag.py`:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/docintel.git
+git clone https://github.com/snairaadarsh/doc_intel.git
 cd docintel
 ```
 
