@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
+faiss-cpu
+sentence-transformers
+transformers
+torch
+huggingface-hub
+python-dotenv
+pypdf
+docx2txt
+openpyxl
+xlrd
+unstructured
